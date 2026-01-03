@@ -1,1 +1,1 @@
-# ai-chatbot-journey
+# Basics of python

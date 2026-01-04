@@ -1,4 +1,4 @@
-# Basics of python
+# ai-chatbot-journey
 ai-chatbot-journey/
  ├── app.py
  ├── requirements.txt
